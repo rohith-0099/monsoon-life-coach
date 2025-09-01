@@ -28,7 +28,8 @@ A smart weather web application that transforms basic weather forecasts into act
 
 ## 🚀 Live Demo
 
-**Website:** [Live Demo Link](monsoon-life-coach.vercel.app)
+**Website:** [https://monsoon-life-coach.vercel.app](https://monsoon-life-coach.vercel.app)
+
 
 ## 🛠️ Tech Stack
 
@@ -164,4 +165,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 💡 **Have suggestions?** Open an issue or submit a pull request.
 
-🌐 **Live Demo:** [monsoon-life-coach.vercel.app](monsoon-life-coach.vercel.app)
+🌐 **Live Demo:** [https://monsoon-life-coach.vercel.app](https://monsoon-life-coach.vercel.app)
