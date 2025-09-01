@@ -80,37 +80,6 @@ Preview build locally
 npm run preview
 
 
-## 📁 Project Structure
-
-monsoon-life-coach/
-src/
-  components/
-    SearchBar.tsx
-    CurrentSummary.tsx
-    ScoreCard.tsx
-    IndexCard.tsx
-    GoldenHourCard.tsx
-    PackList.tsx
-    LoadingSpinner.tsx
-  hooks/
-    useWeather.ts
-  lib/
-    api.ts
-    scoring.ts
-    types.ts
-    formatting.ts
-  pages/
-    Home.tsx
-  App.tsx
-  main.tsx
-  index.css
-public/
-package.json
-vite.config.ts
-tailwind.config.cjs
-tsconfig.json
-
-
 
 ## 🧮 Smart Algorithms
 
