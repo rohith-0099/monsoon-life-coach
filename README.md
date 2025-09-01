@@ -84,26 +84,26 @@ npm run preview
 
 monsoon-life-coach/
 ├── src/
-│ ├── components/ # Reusable UI components
-│ │ ├── SearchBar.tsx
-│ │ ├── CurrentSummary.tsx
-│ │ ├── ScoreCard.tsx
-│ │ ├── IndexCard.tsx
-│ │ ├── GoldenHourCard.tsx
-│ │ ├── PackList.tsx
-│ │ └── LoadingSpinner.tsx
-│ ├── hooks/ # Custom React hooks
-│ │ └── useWeather.ts
-│ ├── lib/ # Utilities and API functions
-│ │ ├── api.ts
-│ │ ├── scoring.ts
-│ │ ├── types.ts
-│ │ └── formatting.ts
-│ ├── pages/ # Page components
-│ │ └── Home.tsx
-│ ├── App.tsx
-│ ├── main.tsx
-│ └── index.css
+│   ├── components/        # Reusable UI components
+│   │   ├── SearchBar.tsx
+│   │   ├── CurrentSummary.tsx
+│   │   ├── ScoreCard.tsx
+│   │   ├── IndexCard.tsx
+│   │   ├── GoldenHourCard.tsx
+│   │   ├── PackList.tsx
+│   │   └── LoadingSpinner.tsx
+│   ├── hooks/             # Custom React hooks
+│   │   └── useWeather.ts
+│   ├── lib/               # Utilities and API functions
+│   │   ├── api.ts
+│   │   ├── scoring.ts
+│   │   ├── types.ts
+│   │   └── formatting.ts
+│   ├── pages/             # Page components
+│   │   └── Home.tsx
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
 ├── public/
 ├── package.json
 ├── vite.config.ts
