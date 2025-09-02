@@ -31,23 +31,6 @@ A smart weather web application that transforms basic weather forecasts into act
 **Website:** [https://monsoon-life-coach.vercel.app](https://monsoon-life-coach.vercel.app)
 
 
-## 📁 Project Structure
-📁 monsoon-life-coach/
-  📁 src/
-    📁 components/        # UI Components
-    📁 hooks/            # Custom hooks
-    📁 lib/              # Utilities & APIs
-    📁 pages/            # Page components
-    📄 App.tsx
-    📄 main.tsx
-    📄 index.css
-  📁 public/
-  📄 package.json
-  📄 vite.config.ts
-  📄 tailwind.config.cjs
-  📄 tsconfig.json
-
-
 
 ## 🛠️ Tech Stack
 
